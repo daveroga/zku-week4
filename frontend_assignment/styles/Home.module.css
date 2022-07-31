@@ -28,6 +28,7 @@
     width: 200px;
     text-align: center;
     cursor: pointer;
+    color: white;
 }
 
 .button:hover {
